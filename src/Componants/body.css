@@ -1,0 +1,29 @@
+.body-head {
+    color: #ffc400;
+}
+
+.question {
+    margin: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    border: 1px gray solid;
+    padding: 10px 25px;
+    border-radius: 15px;
+}
+
+.bodyy {
+    position: relative;
+}
+
+.alert {
+    padding: 60px 10px 10px;
+    position: fixed;
+    z-index: 500;
+    width: 75%;
+    height: fit-content;
+    margin: 150px;
+    margin-left: 30%;
+    top: 50px;
+    right: 150px;
+    text-align: center;
+}

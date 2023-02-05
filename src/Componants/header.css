@@ -1,0 +1,13 @@
+.header {
+    background-color: #19283f;
+    color: #eff7fa;
+}
+
+.defination {
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.defination p:last-of-type {
+    background-color: #eff7fa;
+}
